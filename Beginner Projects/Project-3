@@ -1,0 +1,21 @@
+Project 3: Infrastructure Automation with Terraform
+
+Goal: Create cloud resources automatically.
+
+Skills Learned:
+Infrastructure as Code
+Cloud provisioning
+Terraform state management
+
+Tech Stack:
+Terraform
+AWS Free Tier
+
+Create:
+EC2
+Security Groups
+S3 Bucket
+
+
+Resources: 
+Terraform Learn Tutorials: https://developer.hashicorp.com/terraform/tutorials
