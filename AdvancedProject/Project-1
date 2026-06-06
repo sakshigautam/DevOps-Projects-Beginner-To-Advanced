@@ -1,0 +1,22 @@
+Project 8: GitOps Deployment Pipeline
+Goal: Deploy applications automatically using Git as the source of truth.
+
+Skills Learned:
+GitOps
+Kubernetes Operations
+Automated Deployments
+
+Tech Stack:
+Argo CD: https://argo-cd.readthedocs.io/en/stable/
+Kubernetes
+GitHub
+
+Workflow:
+
+Git Commit
+↓
+Argo CD Detects Change
+↓
+Automatic Sync
+↓
+Kubernetes Updated
