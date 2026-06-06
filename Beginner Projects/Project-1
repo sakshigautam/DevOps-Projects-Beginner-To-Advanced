@@ -1,0 +1,26 @@
+Project 1: Deploy a Static Website Using Nginx and Docker
+
+Goal: Deploy a simple HTML/CSS website inside a Docker container.
+
+Skills Learned
+Linux basics
+Docker fundamentals
+Nginx configuration
+Container networking
+
+
+Tech Stack
+Linux
+Docker
+Nginx
+GitHub
+
+
+Deliverables
+Dockerfile
+Website running on localhost
+GitHub repository
+
+Resources
+Docker Documentation : https://docs.docker.com/
+Nginx Documentation : https://nginx.org/en/docs/
