@@ -1,0 +1,30 @@
+Project 2: CI/CD Pipeline for a Java or Node.js Application
+
+Goal: Automatically build and deploy code whenever changes are pushed.
+
+Skills Learned:
+CI/CD concepts
+Git workflows
+Build automation
+
+Tech Stack:
+GitHub
+Jenkins or GitHub Actions
+Docker
+
+
+Workflow:
+
+Developer Pushes Code
+↓
+Build
+↓
+Test
+↓
+Docker Image Creation
+↓
+Deployment
+
+Resources: 
+GitHub Actions Documentation: https://docs.github.com/en/actions
+Jenkins Documentation: https://www.jenkins.io/doc/
