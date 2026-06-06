@@ -1,0 +1,32 @@
+Project 9: Complete DevSecOps Pipeline
+Goal: Integrate security into CI/CD.
+
+Skills Learned:
+Security scanning
+Image scanning
+Dependency checks
+
+Tech Stack:
+Jenkins
+SonarQube
+Trivy
+Docker
+Kubernetes
+
+Pipeline:
+
+Code Commit
+↓
+Static Analysis
+↓
+Security Scan
+↓
+Build
+↓
+Image Scan
+↓
+Deploy
+
+Resources: 
+SonarQube: https://www.sonarsource.com/products/sonarqube/
+Trivy: https://trivy.dev/
