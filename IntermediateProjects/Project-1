@@ -1,0 +1,22 @@
+Project 4: Containerized Microservices Application
+
+Goal: Deploy multiple services communicating with each other.
+
+Example:
+Frontend
+Backend API
+Database
+
+Skills Learned:
+Docker Compose
+Networking
+Service Discovery
+
+Tech Stack:
+Docker
+Docker Compose
+PostgreSQL
+Spring Boot or Node.js
+
+Resources:
+Docker Compose Documentation: https://docs.docker.com/compose
