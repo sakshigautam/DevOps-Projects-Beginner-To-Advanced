@@ -1,0 +1,22 @@
+Project 6: Monitoring and Alerting Stack
+
+Goal: Monitor application and infrastructure.
+
+Skills Learned:
+Observability
+Metrics collection
+Dashboard creation
+
+Tech Stack:
+Prometheus
+Grafana
+Node Exporter
+
+Deliverables:
+
+Dashboard showing:
+
+CPU
+Memory
+Disk
+Application metrics
