@@ -1,0 +1,26 @@
+Project 5: Kubernetes Deployment Project
+
+Goal: Deploy application on Kubernetes.
+
+Skills Learned:
+Pods
+Deployments
+Services
+Ingress
+
+Tech Stack:
+Kubernetes
+Minikube
+Docker
+
+What to Build:
+
+Deploy a sample application with:
+
+3 replicas
+Load balancing
+Rolling updates
+
+Resources:
+Kubernetes Documentation:https://kubernetes.io/docs/home/
+Minikube Documentation: https://minikube.sigs.k8s.io/docs/
