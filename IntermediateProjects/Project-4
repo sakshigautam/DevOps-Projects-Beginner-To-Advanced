@@ -1,0 +1,16 @@
+Project 7: Centralized Logging Solution
+Goal: Collect logs from multiple services.
+
+Skills Learned:
+Log aggregation
+Troubleshooting
+Production monitoring
+
+Tech Stack:
+Elasticsearch: https://www.elastic.co/elasticsearch
+Logstash: https://www.elastic.co/logstash
+Kibana: https://www.elastic.co/kibana
+
+Alternative
+
+Grafana Loki
